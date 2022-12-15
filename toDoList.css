@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+    margin:0
+}
+header{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+
+
+h1{
+    margin:0;
+    color: white;
+    padding-top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px
+
+}
+
+header div{
+    margin-top:5%;
+    padding-bottom:5%
+
+}
+
+main button{
+    border-radius: 50px;
+    margin-right: 2%
+}
+
+main{
+    width:70%;
+    margin:auto
+}
+
+main div{
+    background-color: beige;
+    border: 1px solid grey;
+    margin-top: 10%;
+}
